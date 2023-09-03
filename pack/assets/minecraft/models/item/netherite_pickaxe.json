@@ -1,0 +1,7 @@
+{
+  "parent": "item/pickaxe",
+  "textures": {
+    "0": "item/netherite_pickaxe",
+    "particle": "item/netherite_pickaxe"
+  }
+}

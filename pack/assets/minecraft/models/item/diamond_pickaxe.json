@@ -1,0 +1,7 @@
+{
+  "parent": "item/pickaxe",
+  "textures": {
+    "0": "item/diamond_pickaxe",
+    "particle": "item/diamond_pickaxe"
+  }
+}
