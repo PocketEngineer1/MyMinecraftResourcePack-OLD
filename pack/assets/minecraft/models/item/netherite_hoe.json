@@ -1,0 +1,7 @@
+{
+  "parent": "item/hoe",
+  "textures": {
+    "0": "item/netherite_hoe",
+    "particle": "item/netherite_hoe"
+  }
+}
